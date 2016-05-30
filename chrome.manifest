@@ -1,0 +1,6 @@
+content privacyfriendlycookiesettings chrome/content/
+
+locale privacyfriendlycookiesettings en locale/en/
+locale privacyfriendlycookiesettings de locale/de/
+
+skin privacyfriendlycookiesettings classic/1.0 skin/
